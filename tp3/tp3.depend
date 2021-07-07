@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1625537172 source:c:\users\pc\desktop\proyectos_codeblocks\tp3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"Controller.h"
+	"extras.h"
+
+1565993298 c:\users\pc\desktop\proyectos_codeblocks\tp3\linkedlist.h
+
+1625535489 c:\users\pc\desktop\proyectos_codeblocks\tp3\employee.h
+
+1625447870 c:\users\pc\desktop\proyectos_codeblocks\tp3\parser.h
+
+1625448461 c:\users\pc\desktop\proyectos_codeblocks\tp3\controller.h
+	"Employee.h"
+
+1624304468 c:\users\pc\desktop\proyectos_codeblocks\tp3\extras.h
+
+1625535451 source:c:\users\pc\desktop\proyectos_codeblocks\tp3\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1624304448 source:c:\users\pc\desktop\proyectos_codeblocks\tp3\extras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"extras.h"
+
+1625580163 source:c:\users\pc\desktop\proyectos_codeblocks\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"extras.h"
+	"parser.h"
+
+1625443087 source:c:\users\pc\desktop\proyectos_codeblocks\tp3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
